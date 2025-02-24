@@ -1,2 +1,5 @@
 # ir_tools
-convert IR Pronto code to Raw code, convert Raw code to hex code...
+- Convert IR Pronto code to Raw code
+- Convert Raw code to hex code
+- Compare 2 IR codes are the same
+- Generate raw code from header, data, footer
